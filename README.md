@@ -27,6 +27,8 @@ In this game, the player must guess a hidden word one letter at a time. If the g
 ##▶️ How to Run
 Clone or download this repository.
 
+https://github.com/11florin/Hangman.git
+
 Compile the Java file:
 
 javac Hangman.java
